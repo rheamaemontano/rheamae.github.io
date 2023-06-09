@@ -1,0 +1,14 @@
+header{
+    background-color: aquamarine;
+    padding: auto;
+}
+header ul{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    position: relative;
+}
+header ul li{
+    list-style-type: none;
+    padding: 0;
+}
