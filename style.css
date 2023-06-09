@@ -8,6 +8,13 @@ body {
 header{
     background-color: aquamarine;
     padding: auto;
+
+}
+header .wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    position: relative;
 }
 header ul{
     display: flex;
