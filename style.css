@@ -16,6 +16,12 @@ header .wrapper {
     width: 100%;
     position: relative;
     justify-content: space-between;
+    max-width: 1400px;
+}
+header .col2.column {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
 }
 header ul{
     display: flex;
@@ -23,9 +29,9 @@ header ul{
     width: 100%;
     position: relative;
 }
-header ul li{
+header ul li {
     list-style-type: none;
-    padding: 0;
+    padding: 0 15px;
 }
 header .col1 img {
 	width: 100%;
