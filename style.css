@@ -6,15 +6,16 @@ body {
     padding: 0;
 }
 header{
-    background-color: aquamarine;
+    background-color: beige;
     padding: auto;
 
 }
-header .wrapper{
+header .wrapper {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
     position: relative;
+    justify-content: space-between;
 }
 header ul{
     display: flex;
