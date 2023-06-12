@@ -63,6 +63,10 @@ header .col1 img {
 .col2.column {
 	display: flex;
 	align-items: center;
+}
+.col2.column {
+	display: flex;
+	align-items: center;
 	justify-content: center;
 }
 .col2 img {
