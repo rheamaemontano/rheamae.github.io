@@ -38,3 +38,7 @@ header .col1 img {
 	max-width: 125px;
 	height: auto;
 }
+#sec1{
+	background: rgb(2,0,36);
+	background: linear-gradient(207deg, rgba(2,0,36,0.31974796754639356) 0%, rgba(255,255,255,1) 0%, rgba(247,250,245,1) 64%, rgba(228,255,206,1) 100%);
+}
