@@ -6,17 +6,18 @@ body {
     padding: 0;
 }
 header{
-    background-color: beige;
+    background-color: transparent;
     padding: auto;
 
 }
 header .wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    position: relative;
-    justify-content: space-between;
-    max-width: 1400px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	position: relative;
+	justify-content: space-between;
+	max-width: 1400px;
+	margin: 0 auto;
 }
 header .col2.column {
     align-items: center;
