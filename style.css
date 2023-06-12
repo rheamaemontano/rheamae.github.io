@@ -4,6 +4,7 @@
 body {
     margin: 0;
     padding: 0;
+    position: relative;
 }
 header {
 	background-color: transparent;
@@ -46,10 +47,16 @@ header .col1 img {
 	height: 100vh;
 	margin: 0;
 	padding-top: 200px;
+	position: relative;
 }
 .wrapper{
 	padding: 20px;
 	margin: 0 auto;
 	max-width: 1400px;
-
+	position: relative;
+	display: flex;
+	width: 100%;
+}
+#sec1 .column{
+	 width: 50%; 
 }
