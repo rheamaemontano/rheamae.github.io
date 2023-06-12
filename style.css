@@ -18,7 +18,7 @@ header .wrapper {
 	position: relative;
 	justify-content: space-between;
 	max-width: 1400px;
-	margin: ;
+	margin: 0 auto;
 }
 header .col2.column {
     align-items: center;
