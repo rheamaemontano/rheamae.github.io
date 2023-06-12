@@ -5,18 +5,20 @@ body {
     margin: 0;
     padding: 0;
 }
-header{
-    background-color: transparent;
-    padding: auto;
-
+header {
+	background-color: transparent;
+	position: absolute;
+	width: 100%;
+	display: block;
 }
 header .wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    width: 100%;
-    position: relative;
-    justify-content: space-between;
-    max-width: 1400px;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	position: relative;
+	justify-content: space-between;
+	max-width: 1400px;
+	margin: ;
 }
 header .col2.column {
     align-items: center;
@@ -38,7 +40,10 @@ header .col1 img {
 	max-width: 125px;
 	height: auto;
 }
-#sec1{
+#sec1 {
 	background: rgb(2,0,36);
-	background: linear-gradient(203deg, rgba(2,0,36,0.31974796754639356) 0%, rgba(255,255,255,1) 0%, rgba(247,250,245,1) 43%, rgba(228,255,206,1) 84%);
+	background: linear-gradient(200deg, rgba(2,0,36,0.31974796754639356) 0%, rgb(255, 255, 255) 0%, rgb(247, 250, 245) 43%, rgb(231, 255, 211) 84%);
+	height: 100vh;
+	margin: 0;
+	padding-top: 200px;
 }
