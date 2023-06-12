@@ -60,6 +60,11 @@ header .col1 img {
 #sec1 .column{
 	 width: 50%; 
 }
+.col2.column {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 .col2 img {
 	width: 100%;
 	max-width: 500px;
