@@ -49,14 +49,18 @@ header .col1 img {
 	padding-top: 200px;
 	position: relative;
 }
-.wrapper{
-	padding: 20px;
+.wrapper {
+	padding: 20px 120px;
 	margin: 0 auto;
-	max-width: 1400px;
+	/* max-width: 1400px; */
 	position: relative;
 	display: flex;
 	width: 100%;
 }
 #sec1 .column{
 	 width: 50%; 
+}
+.col2 img {
+	width: 100%;
+	max-width: 500px;
 }
