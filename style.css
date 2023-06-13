@@ -79,8 +79,9 @@ header .col1 img {
 	display: flex;
 	width: 100%;
 }
-#sec1 .column{
-	 width: 50%; 
+#sec1 .column {
+	width: 50%;
+	padding: 10px 30px;
 }
 .col2.column {
 	display: flex;
