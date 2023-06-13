@@ -6,7 +6,7 @@ body {
     padding: 0;
     position: relative;
 }
-h1, h2, h3, h4, h5, h6, p {
+h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2em;
 	font-family: Poppins;
 }
@@ -27,6 +27,11 @@ h5 {
 }
 h6 {
 	font-size: 16px;
+}
+p {
+	font-family: San-Serif;
+	line-height: 1.3em;
+	
 }
 header {
 	background-color: transparent;
