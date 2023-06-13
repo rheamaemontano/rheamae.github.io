@@ -33,6 +33,8 @@ header {
 	position: absolute;
 	width: 100%;
 	display: block;
+	opacity: 1;
+	z-index: 1;
 }
 header .wrapper {
 	display: flex;
