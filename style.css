@@ -103,3 +103,9 @@ header .col1 img {
 	width: 100%;
 	max-width: 560px;
 }
+#sec2 .column {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0;
+	position: relative;
+}
