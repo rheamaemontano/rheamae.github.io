@@ -116,7 +116,6 @@ header .col1 img {
 }
 #sec2 .innercol2 .wrapper {
 	display: flex;
-	flex-wrap: wrap;
 	margin: 0 20px;
 }
 #sec2 .column h3 {
