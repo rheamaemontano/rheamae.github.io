@@ -107,8 +107,9 @@ header .col1 img {
 #sec2 .column {
 	display: flex;
 	flex-wrap: wrap;
-	margin: 0;
+	margin: 0 auto;
 	position: relative;
+	width: 100%;
 }
 #sec2 .wrapper {
 	display: block;
@@ -120,4 +121,8 @@ header .col1 img {
 }
 #sec2 .column h3 {
 	font-size: 24px;
+}
+#sec2 .innercol2 h2 {
+	text-align: center;
+	margin: 0 auto;
 }
