@@ -125,3 +125,9 @@ header .col1 img {
 	text-align: center;
 	margin: 0 auto;
 }
+#sec2 .innercol2 .column {
+	background-color: #efefef;
+	margin: 20px;
+	padding: 30px;
+	border-radius: 15px;
+}
