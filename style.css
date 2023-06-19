@@ -30,9 +30,8 @@ h6 {
 	font-size: 16px;
 }
 p {
-	font-family: San-Serif;
+	font-family: Lato;
 	line-height: 1.3em;
-	
 }
 header {
 	background-color: transparent;
@@ -104,6 +103,9 @@ header .col1 img {
 #sec1 .col2 img {
 	width: 100%;
 	max-width: 560px;
+}
+#sec1 p{
+	font-size: 22px;
 }
 #sec2 {
 	padding: 60px 20px;
