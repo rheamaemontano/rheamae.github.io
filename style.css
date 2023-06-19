@@ -96,6 +96,10 @@ header .col1 img {
 	align-items: center;
 	justify-content: center;
 }
+#sec1 h1 {
+	font-size: 72px;
+	margin: 20px 0 30px 0;
+}
 #sec1 .col2 img {
 	width: 100%;
 	max-width: 560px;
