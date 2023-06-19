@@ -109,3 +109,6 @@ header .col1 img {
 	margin: 0;
 	position: relative;
 }
+#sec2 .column h3 {
+	font-size: 24px;
+}
