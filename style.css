@@ -114,7 +114,7 @@ header .col1 img {
 	display: block;
 	position: relative;
 }
-#sec2 .innercol2 .column {
+#sec2 .innercol2 .wrapper {
 	display: flex;
 	flex-wrap: wrap;
 	margin: 0 20px;
