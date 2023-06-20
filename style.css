@@ -96,6 +96,7 @@ header .col1 img {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
+	padding: 0;
 }
 #sec1 .col2.column {
 	display: flex;
