@@ -5,12 +5,11 @@ body {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	background-color: #A9C9FF;
-		background-image: -webkit-linear-gradient(191deg, #A9C9FF 0%, #FFBBEC 100%);
-		background-image: -moz-linear-gradient(191deg, #A9C9FF 0%, #FFBBEC 100%);
-		background-image: -o-linear-gradient(191deg, #A9C9FF 0%, #FFBBEC 100%);
-		background-image: linear-gradient(191deg, #A9C9FF 0%, #FFBBEC 100%);
-
+	background-color: #FAACA8;
+	background-image: -webkit-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
+	background-image: -moz-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
+	background-image: -o-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
+	background-image: linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
 }
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2em;
