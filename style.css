@@ -5,11 +5,7 @@ body {
 	margin: 0;
 	padding: 0;
 	position: relative;
-	background-color: #FAACA8;
-	background-image: -webkit-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
-	background-image: -moz-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
-	background-image: -o-linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
-	background-image: linear-gradient(32deg, #FAACA8 0%, #DDD6F3 100%);
+	background-image: linear-gradient(to top, #d9afd9 0%, #97d9e1 100%);
 }
 h1, h2, h3, h4, h5, h6 {
 	line-height: 1.2em;
