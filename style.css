@@ -66,8 +66,9 @@ header ul{
     position: relative;
 }
 header ul li {
-    list-style-type: none;
-    padding: 0 15px;
+	list-style-type: none;
+	padding: 0 15px;
+	color: #fff;
 }
 header .col1 img {
 	width: 100%;
