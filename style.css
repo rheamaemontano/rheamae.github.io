@@ -173,7 +173,7 @@ header .col1 img {
 	left: 0;
 }
 .corner-borders::before, .corner-borders::after {
-	border-color: white;
+	border-color: #000;
 	border-width: 8px;
 	content: "";
 	display: block;
