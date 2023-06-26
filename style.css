@@ -149,3 +149,36 @@ header .col1 img {
 #sec2 .innercol2 h3, #sec2 .innercol2 p {
 	color: #000;
 }
+.corner-borders--left::before {
+	border-left-style: solid;
+	border-top-style: solid;
+	top: 0;
+}
+.corner-borders--left::after {
+	border-bottom-style: solid;
+	border-left-style: solid;
+	bottom: 0;
+}
+.corner-borders--right::before {
+	border-right-style: solid;
+	border-top-style: solid;
+	top: 0;
+}
+.corner-borders--right::after {
+	border-bottom-style: solid;
+	border-right-style: solid;
+	bottom: 0;
+}
+.corner-borders--left::before, .corner-borders--left::after {
+	left: 0;
+}
+.corner-borders::before, .corner-borders::after {
+	border-color: white;
+	border-width: 8px;
+	content: "";
+	display: block;
+	height: 50px;
+	pointer-events: none;
+	position: absolute;
+	width: 50px;
+}
