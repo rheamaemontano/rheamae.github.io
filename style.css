@@ -146,3 +146,6 @@ header .col1 img {
 	padding: 30px;
 	border-radius: 15px;
 }
+#sec2 .innercol2 h3, #sec2 .innercol2 p {
+	color: #000;
+}
